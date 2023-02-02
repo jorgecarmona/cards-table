@@ -1,0 +1,8 @@
+.jc-loader-button {
+  padding: 1rem;
+  border-width: 2px;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background: transparent
+}

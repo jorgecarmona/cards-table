@@ -1,0 +1,24 @@
+.jc-button {
+  font-weight: 500;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  border: 0;
+}
+
+.jc-button-sm {
+  width: 62px;
+  font-size: 10px;
+  padding: 4px;
+}
+
+.jc-button-md {
+  font-size: 14;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.jc-button-lg {
+  font-size: 16px;
+  width: 100%;
+  padding: 0.5rem;
+}
