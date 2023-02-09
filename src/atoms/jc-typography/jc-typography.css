@@ -1,0 +1,9 @@
+.typography-container > h3 {
+  font-size: 16px;
+  color: rgb(17, 24, 39)
+}
+
+.typography-container > p {
+  font-size: 14px;
+  color: rgb(55, 65, 81)
+}
