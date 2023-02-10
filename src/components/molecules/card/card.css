@@ -1,9 +1,13 @@
 .jc-card-container {
   border: 1px solid #e5e7eb;
   box-shadow: 0px 4px 4px 1px rgba(0,0,0,0.19);
+  margin: 10px;
+  min-width: 30%;
 }
 
-.color {}
+.title {
+  height: 50px;
+}
 
 .group {
   padding: 12px;

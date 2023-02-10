@@ -11,7 +11,7 @@ function Card({chipTitle, title, price, color}) {
         <div>
           <JCChip text={chipTitle} />
         </div>
-        <div>
+        <div className="title">
           <JCTypography text={title} variant="h3" />
         </div>
         <div>

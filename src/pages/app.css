@@ -1,8 +1,19 @@
 .app {
-  width: 800px;
   margin: 0 auto;
+  padding: 20px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .action {
   text-align: center;
+}
+
+.load-more {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
 }

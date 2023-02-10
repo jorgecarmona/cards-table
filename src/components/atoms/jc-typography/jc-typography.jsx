@@ -17,8 +17,6 @@ function JCTypography({text, variant = "h1"}) {
       tag = <h1>{text}</h1>;
   }
 
-  console.log(tag);
-
   return <div className="typography-container">{tag}</div>;
 }
 
