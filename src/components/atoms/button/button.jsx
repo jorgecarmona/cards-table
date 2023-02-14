@@ -2,7 +2,7 @@ import React from "react";
 
 import "./button.css";
 
-function JCButton({color = "orange", size = "lg", text = "", handleClick = () => {}}) {
+function JCButton({color = "orange", size = "lg", text, handleClick = () => {}}) {
   let classes = `jc-button-lg`;
 
   if (size === "sm") {
