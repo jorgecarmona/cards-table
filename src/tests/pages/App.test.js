@@ -2,13 +2,6 @@ import {render, screen} from "@testing-library/react";
 import user from "@testing-library/user-event";
 import App from "../../pages/app";
 
-// test("renders learn react link", () => {
-//   render(<App />);
-
-//   const linkElement = screen.getByText(/learn react/i);
-//   expect(linkElement).toBeInTheDocument();
-// });
-
 test("renders application", () => {
   render(<App />);
 
